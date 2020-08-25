@@ -1,0 +1,21 @@
+main{
+	text-align: center;
+	background-color: #F8F8FF;
+}
+
+#timelist{
+	text-align: justify;
+	padding-left: 40%;
+}
+
+#main-title{
+	background-color: #DCDCDC;
+	padding-top: 0.5%;
+	padding-bottom: 0.5%;
+}
+
+#footer{
+	background-color: #DCDCDC;
+	padding-top: 0.5%;
+	padding-bottom: 0.5%;
+}
